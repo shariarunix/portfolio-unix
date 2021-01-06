@@ -251,7 +251,70 @@ a{
     padding: 18px 57px;
     background: linear-gradient(45deg, #FF8063 , #F46060);
     border-radius: 10px;
-    margin: 80px 0px 0px 310px;
+    margin: 82px 0px 0px 310px;
+}
+.form{
+    width: 100%;
+    height: auto;
+    background: #fff;
+    padding: 90px 507px 0px 507px;
+}
+.form .name-mail{
+    width: 100%;
+}
+.name-mail .name{
+    width: 400px;
+    height: auto;
+    margin-left: 15px;
+    padding: 15px;
+    background: #F8F9FC;
+    border: none;
+    font-size: 18px;
+    color: #363958;
+    font-weight: 400;
+    border-radius: 10px;
+}
+.name-mail .email{
+    width: 400px;
+    height: auto;
+    margin-left: 15px;
+    padding: 15px;
+    background: #F8F9FC;
+    border: none;
+    font-size: 18px;
+    color: #363958;
+    font-weight: 400;
+    border-radius: 10px;
+}
+.text-area{
+    margin-top: 25px;
+}
+.area-text{
+    width: 850px;
+    margin-left: 15px;
+    padding: 15px;
+    background: #F8F9FC;
+    border: none;
+    font-size: 18px;
+    color: #363958;
+    font-weight: 400;
+    border-radius: 10px;
+}
+.submit-div{
+    width: 905px;
+    height: auto;
+    padding: 60px 0px 0px 0px;
+    text-align: center;
+}
+.submit{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    color: #fff;
+    padding: 18px 57px;
+    background: linear-gradient(45deg, #FF8063 , #F46060);
+    border-radius: 10px;
+    text-align: center;
 }
 .sec-4 .connected{
     width: 100%;
@@ -278,7 +341,7 @@ a{
 .social-icons{
     width: 100%;
     height: auto;
-    padding: 25px 0px 120px 0px;;
+    padding: 25px 0px 80px 0px;;
 }
 .social-icons h1{
     text-align: center;
